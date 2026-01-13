@@ -46,5 +46,5 @@ Please email [@ljharb](https://github.com/ljharb) or see https://tidelift.com/se
 [downloads-url]: https://npm-stat.com/charts.html?package=possible-typed-array-names
 [codecov-image]: https://codecov.io/gh/ljharb/possible-typed-array-names/branch/main/graphs/badge.svg
 [codecov-url]: https://app.codecov.io/gh/ljharb/possible-typed-array-names/
-[actions-image]: https://img.shields.io/endpoint?url=https://github-actions-badge-u3jn4tfpocch.runkit.sh/ljharb/possible-typed-array-names
+[actions-image]: https://img.shields.io/github/check-runs/ljharb/possible-typed-array-names/main
 [actions-url]: https://github.com/ljharb/possible-typed-array-names/actions
